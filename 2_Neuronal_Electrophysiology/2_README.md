@@ -10,23 +10,23 @@ This module covers the development of the nervous system. We learn how the nervo
 
 **Chapter 5: Action Potential Kinetics** 
 
-- [Presentation Figures](./Chapter_5/Chapter_5_presentation.md) 
-- [Chapter Notes](./Chapter_5/5_chapter_notes.pdf) 
+- [Presentation Figures](./Chapter_5/Chapter_5_presentation.pdf) 
+- [Chapter Notes](./Chapter_5/5_chapter_notes.md) 
 
 **Chapter 6: Differentiation and Survival of Nervous System Cells**
 
-- [Presentation Figures](./Chapter_6/Chapter_6_presentation.md) 
-- [Chapter Notes](./Chapter_6/6_chapter_notes.pdf) 
+- [Presentation Figures](./Chapter_6/Chapter_6_presentation.pdf) 
+- [Chapter Notes](./Chapter_6/6_chapter_notes.md) 
 
 **Chapter 7: Growth and Guidance of Neurites** 
 
-- [Presentation Figures](./Chapter_7/Chapter_7_presentation.md) 
-- [Chapter Notes](./Chapter_7/7_chapter_notes.pdf) 
+- [Presentation Figures](./Chapter_7/Chapter_7_presentation.pdf) 
+- [Chapter Notes](./Chapter_7/7_chapter_notes.md) 
 
 **Chapter 8: The Formation and Elimination of Synapses** 
 
-- [Presentation Figures](./Chapter_8/Chapter_8_presentation.md) 
-- [Chapter Notes](./Chapter_8/8_chapter_notes.pdf) 
+- [Presentation Figures](./Chapter_8/Chapter_8_presentation.pdf) 
+- [Chapter Notes](./Chapter_8/8_chapter_notes.md) 
 
 ## Concept Summary
 
