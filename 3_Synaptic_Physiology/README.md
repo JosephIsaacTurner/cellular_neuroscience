@@ -1,4 +1,4 @@
-# Module 3: Synaptic Transmission
+# Module 3: Synaptic Physiology
 
 ## Overview
 

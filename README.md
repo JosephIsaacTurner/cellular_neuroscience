@@ -29,7 +29,7 @@ There are four modules, each covering a different overarching topic.
 - Synaptic Electrophysiology
 - Ion Channels and Receptors
 
-[**Module 3: Synaptic Transmission**](./3_Synaptic_Transmission/README.md)
+[**Module 3: Synaptic Physiology**](./3_Synaptic_Physiology/README.md)
 
 - Neurotransmitter release
 - Synaptic Plasticity
