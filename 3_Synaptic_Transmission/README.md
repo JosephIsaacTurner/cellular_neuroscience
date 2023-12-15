@@ -1,32 +1,43 @@
-# Module 2: Neuronal Electrophysiology
+# Module 3: Synaptic Transmission
 
 ## Overview
 
 This module covers the development of the nervous system. We learn how the nervous system is pattened in early embryonic development, how neurons find their targets, and how synapses are formed. We also learn about neurodegeneration and regeneration, and how the brain can repair itself after injury.
 
-[**Key Terms**](2_key_terms.csv)
+[**Key Terms**](3_key_terms.csv)
 
 ## Contents
 
-**Chapter 5: Action Potential Kinetics** 
+**Chapter 9: Synaptic Transmission** 
 
-- [Presentation Figures](./Chapter_5/Chapter_5_presentation.pdf) 
-- [Chapter Notes](./Chapter_5/5_chapter_notes.md) 
+- [Presentation Figures](./Chapter_9/Chapter_9_presentation.pdf) 
+- [Chapter Notes](./Chapter_9/9_chapter_notes.md) 
 
-**Chapter 6: Differentiation and Survival of Nervous System Cells**
+**Chapter 10: Neurotransmitters**
 
-- [Presentation Figures](./Chapter_6/Chapter_6_presentation.pdf) 
-- [Chapter Notes](./Chapter_6/6_chapter_notes.md) 
+- [Presentation Figures](./Chapter_10/Chapter_10_presentation.pdf) 
+- [Chapter Notes](./Chapter_10/10_chapter_notes.md) 
 
-**Chapter 7: Growth and Guidance of Neurites** 
+**Chapter 11: Introduction to Plasticity** 
 
-- [Presentation Figures](./Chapter_7/Chapter_7_presentation.pdf) 
+- [Presentation Figures](./Chapter_11/Chapter_11_presentation.pdf) 
 - [Chapter Notes](./Chapter_7/7_chapter_notes.md) 
 
-**Chapter 8: The Formation and Elimination of Synapses** 
+**Chapter 12: Synaptic Plasticity, Continued** 
 
-- [Presentation Figures](./Chapter_8/Chapter_8_presentation.pdf) 
-- [Chapter Notes](./Chapter_8/8_chapter_notes.md) 
+- [Presentation Figures](./Chapter_12/Chapter_12_presentation.pdf) 
+- [Chapter Notes](./Chapter_12/12_chapter_notes.md) 
+
+**Chapter 13: Blood-Brain Barrier and Cerebrospinal Fluid** 
+
+- [Presentation Figures](./Chapter_13/Chapter_13_presentation.pdf) 
+- [Chapter Notes](./Chapter_13/13_chapter_notes.md) 
+
+**Chapter 14: Cerebrovascular Physiology** 
+
+- [Presentation Figures](./Chapter_14/Chapter_14_presentation.pdf) 
+- [Chapter Notes](./Chapter_14/14_chapter_notes.md) 
+
 
 ## Concept Summary
 
