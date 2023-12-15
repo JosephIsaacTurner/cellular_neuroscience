@@ -12,32 +12,32 @@ This module covers the development of the nervous system. We learn how the nervo
 
 **Chapter 15: Patterning of the Nervous System** 
 
-- [Presentation Figures](./Chapter_15/15_presentation_figures.md) 
+- [Presentation Figures](./Chapter_15/Chapter_15_presentation_figures.md) 
 - [Chapter Notes](./Chapter_15/15_chapter_notes.md) 
 
 **Chapter 16: Differentiation and Survival of Nervous System Cells**
 
-- [Presentation Figures](./Chapter_16/16_presentation_figures.md) 
+- [Presentation Figures](./Chapter_16/Chapter_16_presentation_figures.md) 
 - [Chapter Notes](./Chapter_16/16_chapter_notes.md) 
 
 **Chapter 17: Growth and Guidance of Neurites** 
 
-- [Presentation Figures](./Chapter_17/17_presentation_figures.md) 
+- [Presentation Figures](./Chapter_17/Chapter_17_presentation_figures.md) 
 - [Chapter Notes](./Chapter_17/17_chapter_notes.md) 
 
 **Chapter 18: The Formation and Elimination of Synapses** 
 
-- [Presentation Figures](./Chapter_18/18_presentation_figures.md) 
+- [Presentation Figures](./Chapter_18/Chapter_18_presentation_figures.md) 
 - [Chapter Notes](./Chapter_18/18_chapter_notes.md) 
 
 **Chapter 19: Experience and the Refinement of Synaptic Connections**
 
-- [Presentation Figures](./Chapter_19/19_presentation_figures.md) 
+- [Presentation Figures](./Chapter_19/Chapter_19_presentation_figures.md) 
 - [Chapter Notes](./Chapter_19/19_chapter_notes.md)  
 
 **Chapter 20: Repairing the Damaged Brain** 
 
-- [Presentation Figures](./Chapter_20/20_presentation_figures.md) 
+- [Presentation Figures](./Chapter_20/Chapter_20_presentation_figures.md) 
 - [Chapter Notes](./Chapter_20/20_chapter_notes.md) 
 
 ## Concept Summary
