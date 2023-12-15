@@ -12,47 +12,39 @@ This module covers the development of the nervous system. We learn how the nervo
 
 **Chapter 15: Patterning of the Nervous System** 
 
-- [Learning Objectives](./Chapter_15/15_learning_objectives.md) 
 - [Presentation Figures](./Chapter_15/15_presentation_figures.md) 
 - [Chapter Notes](./Chapter_15/15_chapter_notes.md) 
-- [Key Terms](./Chapter_15/15_key_terms.md)
 
 **Chapter 16: Differentiation and Survival of Nervous System Cells**
 
-- [Learning Objectives](./Chapter_16/16_learning_objectives.md) 
 - [Presentation Figures](./Chapter_16/16_presentation_figures.md) 
 - [Chapter Notes](./Chapter_16/16_chapter_notes.md) 
-- [Key Terms](./Chapter_16/16_key_terms.md)
 
 **Chapter 17: Growth and Guidance of Neurites** 
 
-- [Learning Objectives](./Chapter_17/17_learning_objectives.md)
 - [Presentation Figures](./Chapter_17/17_presentation_figures.md) 
 - [Chapter Notes](./Chapter_17/17_chapter_notes.md) 
-- [Key Terms](./Chapter_17/17_key_terms.md)  
 
 **Chapter 18: The Formation and Elimination of Synapses** 
 
-- [Learning Objectives](./Chapter_18/18_learning_objectives.md) 
 - [Presentation Figures](./Chapter_18/18_presentation_figures.md) 
 - [Chapter Notes](./Chapter_18/18_chapter_notes.md) 
-- [Key Terms](./Chapter_18/18_key_terms.md)
 
 **Chapter 19: Experience and the Refinement of Synaptic Connections**
 
-- [Learning Objectives](./Chapter_19/19_learning_objectives.md) 
 - [Presentation Figures](./Chapter_19/19_presentation_figures.md) 
-- [Chapter Notes](./Chapter_19/19_chapter_notes.md) 
-- [Key Terms](./Chapter_19/19_key_terms.md)  
+- [Chapter Notes](./Chapter_19/19_chapter_notes.md)  
 
 **Chapter 20: Repairing the Damaged Brain** 
 
-- [Learning Objectives](./Chapter_20/20_learning_objectives.md) 
 - [Presentation Figures](./Chapter_20/20_presentation_figures.md) 
 - [Chapter Notes](./Chapter_20/20_chapter_notes.md) 
-- [Key Terms](./Chapter_20/20_key_terms.md)
 
 ## Concept Summary
+
+- **The nervous system is first patterned by molecular signals resulting from genetic programs and embryonic polarity**
+
+- **Later in development, the nervous system is refined through experience-dependent mechanisms that remodel synapses and circuits**
 
 - The nervous system is derived from ectoderm
 
