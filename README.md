@@ -17,25 +17,25 @@ There are four modules, each covering a different overarching topic.
 - **Practice Questions:** A list of practice questions for each chapter. These questions are intended to help you study for the exams. 
 
 ## Contents
-[**Module 1: The Neuron**](./1_The_Neuron/README.md)
+[**Module 1: The Neuron**](./1_The_Neuron)
 
 - Nervous system overview
 - Neuron structure and function
 - Resting membrane potential
 
-[**Module 2: Neuronal Electrophysiology**](./2_Neuronal_Electrophysiology/README.md)
+[**Module 2: Neuronal Electrophysiology**](./2_Neuronal_Electrophysiology)
 
 - Action Potentials
 - Synaptic Electrophysiology
 - Ion Channels and Receptors
 
-[**Module 3: Synaptic Physiology**](./3_Synaptic_Physiology/README.md)
+[**Module 3: Synaptic Physiology**](./3_Synaptic_Physiology)
 
 - Neurotransmitter release
 - Synaptic Plasticity
 - Bonus: Cerebrovascular Physiology
 
-[**Module 4: Developmental Neurobiology**](./4_Developmental_Neurobiology/README.md)
+[**Module 4: Developmental Neurobiology**](./4_Developmental_Neurobiology)
 
 - Patterning of the Nervous System
 - Pathfinding and Synaptogenesis
