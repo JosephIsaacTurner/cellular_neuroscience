@@ -81,14 +81,14 @@
 
 **9. Voltage-gated channels effect in neurons**
 - Voltage-gated channels are found all over the neuron, but their expression/relative abundance varies by location both inside the neuron and across different types of neurons
--**Dendrites:** Many different types of voltage-gated channels, but lower density than axon. Na+, K+, Ca2+ channels all present.
+- **Dendrites:** Many different types of voltage-gated channels, but lower density than axon. Na+, K+, Ca2+ channels all present.
     - Current types: I_Nap, I_L, I_T, I_C, I_A, I_M, I_h
--**Soma:** Many different types of voltage-gated channels, but lower density than axon. Few Ca2+ channels.
+- **Soma:** Many different types of voltage-gated channels, but lower density than axon. Few Ca2+ channels.
     - Current types: I_Nap, I_C, I_A, I_M, I_h
--**Hillock:** Extremely high density of voltage-gated channels, especially Na+ channels
--**Axon:** High density of voltage-gated channels, especially Na+ channels and K+ channels near nodes of Ranvier
+- **Hillock:** Extremely high density of voltage-gated channels, especially Na+ channels
+- **Axon:** High density of voltage-gated channels, especially Na+ channels and K+ channels near nodes of Ranvier
     - Current types: I_Nat, I_K
--**Axon terminal:** High density of voltage-gated channels, especially Ca2+ channels
+- **Axon terminal:** High density of voltage-gated channels, especially Ca2+ channels
     - Current types: I_L
 
 **10. Spike Firing Patterns**
