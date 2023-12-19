@@ -14,7 +14,6 @@ There are four modules, each covering a different overarching topic.
 - **Presentation Figures:** Figures from the lecture slides, with some additional annotations and explanations. These are intended to be used as a study guide, and are not a substitute for the lecture slides.
 - **Chapter Notes:** Notes for each chapter that answer the learning objectives. These notes are as concise and minimal as possible while still covering the learning objectives. I don't want to waste your time with unnecessary information, but I also don't want to leave out anything important.
 - **Key Terms:** A list of key terms for each chapter. These terms are important to know for the exams.
-- **Practice Questions:** A list of practice questions for each chapter. These questions are intended to help you study for the exams. 
 
 ## Contents
 [**Module 1: The Neuron**](./1_The_Neuron)
