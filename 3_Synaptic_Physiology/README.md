@@ -1,7 +1,5 @@
 # Module 3: Synaptic Physiology
 
-## Overview
-
 This module covers the development of the nervous system. We learn how the nervous system is pattened in early embryonic development, how neurons find their targets, and how synapses are formed. We also learn about neurodegeneration and regeneration, and how the brain can repair itself after injury.
 
 [**Key Terms**](3_key_terms.csv)

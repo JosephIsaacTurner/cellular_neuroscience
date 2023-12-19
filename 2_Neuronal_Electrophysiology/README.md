@@ -1,8 +1,6 @@
 # Module 2: Neuronal Electrophysiology
 
-## Overview
-
-This module covers the development of the nervous system. We learn how the nervous system is pattened in early embryonic development, how neurons find their targets, and how synapses are formed. We also learn about neurodegeneration and regeneration, and how the brain can repair itself after injury.
+In Module 2, we dive deeper into neuronal electrophysiology. We explore action potential kinetics, the physiology at the neuromuscular junction, receptors and synaptic integration in the central nervous system, and second messenger systems. This provides a foundation for understanding neuronal signaling and communication. By the end of the module, you will have a grasp of key concepts in neuronal electrochemical processes.
 
 [**Key Terms**](2_key_terms.csv)
 
@@ -13,52 +11,33 @@ This module covers the development of the nervous system. We learn how the nervo
 - [Presentation Figures](./Chapter_5/Chapter_5_presentation.pdf) 
 - [Chapter Notes](./Chapter_5/5_chapter_notes.md) 
 
-**Chapter 6: Differentiation and Survival of Nervous System Cells**
+**Chapter 6: Neuromuscular Junction Physiology**
 
 - [Presentation Figures](./Chapter_6/Chapter_6_presentation.pdf) 
 - [Chapter Notes](./Chapter_6/6_chapter_notes.md) 
 
-**Chapter 7: Growth and Guidance of Neurites** 
+**Chapter 7: Receptors and Synaptic Integration in the Central Nervous System** 
 
 - [Presentation Figures](./Chapter_7/Chapter_7_presentation.pdf) 
 - [Chapter Notes](./Chapter_7/7_chapter_notes.md) 
 
-**Chapter 8: The Formation and Elimination of Synapses** 
+**Chapter 8: Second Messenger Systems** 
 
 - [Presentation Figures](./Chapter_8/Chapter_8_presentation.pdf) 
 - [Chapter Notes](./Chapter_8/8_chapter_notes.md) 
 
 ## Concept Summary
-
-- **The nervous system is first patterned by molecular signals resulting from genetic programs and embryonic polarity**
-
-- **Later in development, the nervous system is refined through experience-dependent mechanisms that remodel synapses and circuits**
-
-- The nervous system is derived from ectoderm
-
-- First, the neural plate forms, then the neural tube, then the brain and spinal cord
-
-- The nervous system is patterned by gradients of different morphogens and transcription factors along the anterior-posterior and dorsal-ventral axes of the growing embryo
-
-- Precursor cells in the neural tube differentiate into neuron types and glial types depending on presence or absence of signaling chemicals
-
-- Precursors proliferate, migrate, and differentiate into neurons and glia
-
-- After differentiation, neurons extend axons and dendrites to find their targets
-
-- Axons are guided by a combination of attractive and repulsive cues in the environment
-
-- Synapses are formed when axons and dendrites find their targets
-
-- Specific receptors and adhesion molecules in synaptic membranes and extracellular matrix help guide synapse formation
-
-- There are critical periods during development when experience is required for normal development
-
-- Neurotrophic factors and presynaptic signals are required for survival of neurons
-
-- Neurons in peripheral nervous system can regenerate after injury, mostly due to the presence of Schwann cells that are able to guide axon regrowth
-
-- Neurons in the central nervous system do not regenerate after injury because of the presence of inhibitory molecules in the extracellular matrix and glial scars
-
-- The brain is capable of reorganizing itself after injury, and can sometimes recover function even though neurons are very rarely regenerated
-
+- Action potentials involve changes in membrane permeability to Na+ and K+, causing a membrane depolarization followed by a repolarization
+- This pattern of polarization is regenerative and travels down the length of the axon
+- Afer one action potential is fired, there is a refractory period during which another action potential cannot be fired because of inactivation of Na+ channels
+- Voltage clamping allows us to measure membrane current in response to changes in membrane potential
+- Distribution of ion channels along the neuron control how the neuron responds to membrane polarization
+- Different ion channels produce characteristic current-voltage relationships
+- The neuromuscular junction is a specialized cholinergic synapse between a motor neuron and a muscle fiber
+- Nicotinic acetylcholine receptors are ligand-gated ion channels that are permeable to Na+ and K+, and are key to understanding the physiology of the neuromuscular junction
+- Synapses in the central nervous system are far more complex than the neuromuscular junction
+- CNS synapses have different receptor types, and can be excitatory or inhibitory
+- metabotropic receptors modulate many neuronal functions, going beyond just membrane potential changes
+- cAMP and cGMP pathways are activated by G-protein coupled receptors, and can modulate ion channel permeability
+- Phospholipase C pathway is activated by G-protein coupled receptors
+- Retrograde messengers, such as endocannabinoids and nitric oxide, can modulate presynaptic neurotransmitter release

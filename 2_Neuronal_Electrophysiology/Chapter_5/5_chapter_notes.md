@@ -1,4 +1,4 @@
-## Chapter 5: Action Potential Propagation
+## Chapter 5: Action Potential Kinetics
 
 **1. Action potentials**
 - **Threshold:** -55 mV membrane potential that initiates action potential  
