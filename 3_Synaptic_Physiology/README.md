@@ -1,6 +1,6 @@
 # Module 3: Synaptic Physiology
 
-This module covers the development of the nervous system. We learn how the nervous system is pattened in early embryonic development, how neurons find their targets, and how synapses are formed. We also learn about neurodegeneration and regeneration, and how the brain can repair itself after injury.
+Module 3 explores synaptic transmission, including the release of neurotransmitters into the synaptic cleft and their binding to postsynaptic receptors. We cover key concepts in synaptic plasticity, including long-term potentiation and depression, which underlie learning and memory formation. Also discussed are supporting structures like the blood-brain barrier and cerebrospinal fluid system that regulate the neuronal environment, and cerebrovascular physiology including regulation of blood flow to the brain. By the end, you will have a foundational understanding of synaptic communication between neurons and how the synapse can be modified for memory and learning.
 
 [**Key Terms**](3_key_terms.csv)
 
@@ -39,35 +39,36 @@ This module covers the development of the nervous system. We learn how the nervo
 
 ## Concept Summary
 
-- **The nervous system is first patterned by molecular signals resulting from genetic programs and embryonic polarity**
+- Synaptic transmission occurs when vesicles containing neurotransmitters fuse with the presynaptic membrane, releasing neurotransmitters into the synaptic cleft
 
-- **Later in development, the nervous system is refined through experience-dependent mechanisms that remodel synapses and circuits**
+- This is mediated by a number of proteins including tSNAREs, vSNAREs, and synaptotagmin
 
-- The nervous system is derived from ectoderm
+- Neurotransmitters are synthesized and packaged into vesicles by highly specific enzymes and transporters
 
-- First, the neural plate forms, then the neural tube, then the brain and spinal cord
+- Synaptic plasticity involves changes in synaptic strength, which can be short-term or long-term
 
-- The nervous system is patterned by gradients of different morphogens and transcription factors along the anterior-posterior and dorsal-ventral axes of the growing embryo
+- Long-term potentiation (LTP) and long-term depression (LTD) are two forms of synaptic plasticity that are longer term, and involve intracellular signaling cascades that change the number and/or function of receptors at the synapse
 
-- Precursor cells in the neural tube differentiate into neuron types and glial types depending on presence or absence of signaling chemicals
+- Late LTP involve gene transcription and protein synthesis, and can last for days or weeks
 
-- Precursors proliferate, migrate, and differentiate into neurons and glia
+- LTP in hippocampus is correlated with spatial memory
 
-- After differentiation, neurons extend axons and dendrites to find their targets
+- The schaffer collateral pathway in the hippocampus is a good model for studying LTP. It synapses onto CA1 pyramidal cells, and is NMDA-dependent.
 
-- Axons are guided by a combination of attractive and repulsive cues in the environment
+- LTP in the lateral amygdala is correlated with fear conditioning, and is also NMDA-dependent
 
-- Synapses are formed when axons and dendrites find their targets
+- Plasticity in the cerebellum is called long-term depression (LTD), and is NMDA-independent, but mGluR-dependent
 
-- Specific receptors and adhesion molecules in synaptic membranes and extracellular matrix help guide synapse formation
+- The blood-brain barrier is a specialized structure that prevents most molecules from entering the brain
 
-- There are critical periods during development when experience is required for normal development
+- The ventricles are filled with cerebrospinal fluid, which is filtered fluid from the choroid plexus
 
-- Neurotrophic factors and presynaptic signals are required for survival of neurons
+- The circle of willis is a network of arteries that supply blood to the brain
 
-- Neurons in peripheral nervous system can regenerate after injury, mostly due to the presence of Schwann cells that are able to guide axon regrowth
+- The brain is highly vascularized, and has a high metabolic demand
 
-- Neurons in the central nervous system do not regenerate after injury because of the presence of inhibitory molecules in the extracellular matrix and glial scars
+- Different brain regions receive blood from different arteries
 
-- The brain is capable of reorganizing itself after injury, and can sometimes recover function even though neurons are very rarely regenerated
+- The brain can autoregulate its blood flow to maintain a constant blood flow despite changes in blood pressure
 
+- Glutamate excito-toxicity is a mechanism of cell death in stroke, and begins with excessive glutamate release from neurons as a result of ischemia (resting membrane potential is lost because of lack of ATP for Na+/K+ ATPase)

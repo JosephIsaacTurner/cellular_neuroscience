@@ -29,17 +29,31 @@ This module provides an introduction to key concepts in neuroscience that will b
 ## Concept Summary
 
 - Neurons receive input at the dendrites
+
 - If the input is strong enough, the neuron will initiate an action potential at the axon hillock
+
 - The action potential will propagate down the axon to the axon terminal and cause the release of neurotransmitter at the synapse
+
 - The neurotransmitter will bind to receptors on the postsynaptic cell (neuron or muscle) and cause a change in its membrane potential
+
 - Signals can be excitatory (depolarizing) or inhibitory (hyperpolarizing)
+
 - The nervous system is composed of neurons and glia
+
 - The central nervous system (CNS) is different from the peripheral nervous system (PNS) both in terms of cell types, subcellular composition, and function
+
 - The cytoskeleton is composed of microtubules, neurofilaments, and microfilaments
+
 - The cytoskeleton is highly dynamic and can be remodeled to change the shape of the neuron and develop and maintain synapses
+
 - Ion channels are transmembrane proteins that allow ions to flow down their concentration gradients
+
 - They can be gated by voltage, ligands, or mechanical forces
+
 - Ion channels are selective for specific ions
+
 - The molecular structure of the channel determines its properties
+
 - The permeability of the neuronal membrane to different ions determines the resting membrane potential
+
 - The neuron can be modeled as a circuit with voltage sources (ion concentration gradients), current sources (ion pumps), resistors (ion channels), and capacitors (membrane)

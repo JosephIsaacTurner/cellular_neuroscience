@@ -30,7 +30,7 @@
     - 2nd messengers: CAMKII, PKC, TyrosineK, NO Synthase, PKA, PKMzeta, MAPK
     - Phosphorylation and insertion of AMPA receptors
     - Changes in gene transcription, new protein synthesis, larger/more synapses
-6. Behavioral conditionin in eyeblink reflex
+6. Behavioral conditioning in eyeblink reflex
     - Tone (CS) paired with air puff (US)
     - Tone activates auditory pathway, and air puff activates pain pathway
     - Both pathways converge on cerebellum
@@ -53,6 +53,7 @@
     This is because they synapse both on the deep cerebellar nucleus AND (directly on purkinje cells OR indirectly via mossy fiber and parallel fiber tract (granule cells)). 
     
     The purkinje cells inhibit the deep cerebellar nuclei, which inhibits the inferior olivary nucleus. This is a negative feedback loop.
+    
 8. Electrical response of Purkinje cells:  
     - Note: Climbing fiber activation is MUCH stronger than parallel fiber activation.
     - The key to long-term depression is climbing fiber activation (from inferior olivary nucleus). All parallel fiber synapses on purkinje cell that are concurrently active will be depressed. This results in overall less activation of the purkinje, thereby disinhibition of the deep cerebellar nuclei. 

@@ -28,16 +28,29 @@ In Module 2, we dive deeper into neuronal electrophysiology. We explore action p
 
 ## Concept Summary
 - Action potentials involve changes in membrane permeability to Na+ and K+, causing a membrane depolarization followed by a repolarization
+
 - This pattern of polarization is regenerative and travels down the length of the axon
+
 - Afer one action potential is fired, there is a refractory period during which another action potential cannot be fired because of inactivation of Na+ channels
+
 - Voltage clamping allows us to measure membrane current in response to changes in membrane potential
+
 - Distribution of ion channels along the neuron control how the neuron responds to membrane polarization
+
 - Different ion channels produce characteristic current-voltage relationships
+
 - The neuromuscular junction is a specialized cholinergic synapse between a motor neuron and a muscle fiber
+
 - Nicotinic acetylcholine receptors are ligand-gated ion channels that are permeable to Na+ and K+, and are key to understanding the physiology of the neuromuscular junction
+
 - Synapses in the central nervous system are far more complex than the neuromuscular junction
+
 - CNS synapses have different receptor types, and can be excitatory or inhibitory
+
 - metabotropic receptors modulate many neuronal functions, going beyond just membrane potential changes
+
 - cAMP and cGMP pathways are activated by G-protein coupled receptors, and can modulate ion channel permeability
+
 - Phospholipase C pathway is activated by G-protein coupled receptors
+
 - Retrograde messengers, such as endocannabinoids and nitric oxide, can modulate presynaptic neurotransmitter release
