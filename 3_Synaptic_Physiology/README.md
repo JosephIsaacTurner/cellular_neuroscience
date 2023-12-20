@@ -19,7 +19,7 @@ Module 3 explores synaptic transmission, including the release of neurotransmitt
 **Chapter 11: Introduction to Plasticity** 
 
 - [Presentation Figures](./Chapter_11/Chapter_11_presentation.pdf) 
-- [Chapter Notes](./Chapter_7/7_chapter_notes.md) 
+- [Chapter Notes](./Chapter_11/11_chapter_notes.md) 
 
 **Chapter 12: Synaptic Plasticity, Continued** 
 

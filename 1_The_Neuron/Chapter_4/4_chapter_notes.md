@@ -41,8 +41,8 @@
 **7. Predicting ion flow for different membrane potentials:**
 - Inward currents make Vm more positive
 - Outward currents make Vm more negative
-- More positive than +61.5 mV: Na+ flows out of cell (outward current), because it wants to bring the Vm lower to reach ENa. K+ and Cl- flow into cell, because they want to lower Vm to reach EK and ECl. 
-- Between +61.5 mV and - 65 mV: Na+ will flow in (inward current) because it wants to make Vm more positive. K+ and Cl- will flow in (outward current) because they want to make Vm more negative.
+- More positive than +61.5 mV: Na+ flows out of cell (outward current), because it wants to bring the Vm lower to reach ENa. K+ flows out and Cl- flows into cell, because they want to lower Vm to reach EK and ECl. 
+- Between +61.5 mV and - 65 mV: Na+ will flow in (inward current) because it wants to make Vm more positive. K+ will flow out and Cl- will flow in (outward current) because they want to make Vm more negative.
 - Between -65 mV and -80 mV: Na+ will flow in, K+ will flow out, and Cl- will flow out (inward current). 
 - More negative than -80 mV: Na+ will flow in, K+ will flow in, and Cl- will flow out (inward current).
 
