@@ -74,6 +74,3 @@
     - Both pathways converge on cerebellum
     - Cerebellum projects to pontine nuclei, which projects to facial nucleus
     - Facial nucleus controls eyeblink reflex
-12. Neural circuitry of eyeblink conditioning
-    - Tone and shock converge on neurons in lateral amygdala; If they are activated together, they can induce LTP (this involves backpropagating action potentials)
-    - Then, tone alone can activate lateral amygdala neurons, which initiates fear response.

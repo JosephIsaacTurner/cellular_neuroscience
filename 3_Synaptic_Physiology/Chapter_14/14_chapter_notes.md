@@ -57,19 +57,19 @@
         - Surgery to repair blood vessel
         - Reduce blood pressure
 8. Cellular mechanisms of death
-        - Hypoperfusion: decreased blood flow to brain
-        - Ischemia: decreased oxygen to brain
-        - Anoxia: no oxygen to brain
-        - Loss of oxidative phosphorylation
-        - Loss of ATP
-        - Loss of Na+/K+ ATPase
-        - Loss of membrane potential, cells depolarize
-        - Glutamate release
-        - Glutamate excitotoxicity (feedback loop):
-            - Calcium influx (Glutamate -> NMDAR -> Ca2+)
-            - Calcium overload
-            - Activation of proteases, lipases, endonucleases
-            - Cytoskeletal breakdown
-            - Osmotic swelling (cytotoxic edema)
-            - Cell death
-        - Death of nervous system
+    - Hypoperfusion: decreased blood flow to brain
+    - Ischemia: decreased oxygen to brain
+    - Anoxia: no oxygen to brain
+    - Loss of oxidative phosphorylation
+    - Loss of ATP
+    - Loss of Na+/K+ ATPase
+    - Loss of membrane potential, cells depolarize
+    - Glutamate release
+    - Glutamate excitotoxicity (feedback loop):
+        - Calcium influx (Glutamate -> NMDAR -> Ca2+)
+        - Calcium overload
+        - Activation of proteases, lipases, endonucleases
+        - Cytoskeletal breakdown
+        - Osmotic swelling (cytotoxic edema)
+        - Cell death
+    - Death of nervous system
